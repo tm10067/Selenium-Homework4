@@ -1,0 +1,12 @@
+url_login: https://test-stand.gb.ru/login
+url: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 3
+driver_path: chromedriver.exe
+username_w: 1234
+password_w: sgdgdf
+username: tm10067
+password: 2ccc41e1dc
+fromaddr: tm10067@list.ru
+toaddr: mtrinchenko@tenderjet.ru
+mailpass: ##########
